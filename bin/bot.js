@@ -1,5 +1,3 @@
-# bin/bot.js
-
 'use strict';
 
 var meterbot = require('../lib/meterbot');
